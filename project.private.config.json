@@ -1,0 +1,20 @@
+{
+    "setting": {
+        "compileHotReLoad": true
+    },
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/admin/meet/edit/admin_meet_edit",
+                    "pathName": "pages/admin/meet/edit/admin_meet_edit",
+                    "query": "id=b69f67c062c39b2609d902ff0766ccb3",
+                    "launchMode": "default",
+                    "scene": null
+                }
+            ]
+        }
+    },
+    "projectname": "test111111111",
+    "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html"
+}
